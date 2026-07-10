@@ -32,9 +32,9 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/gif3.gif" />
 
-I'm a final-year Cybersecurity engineering student who builds systems at the intersection of **security, AI, and scalable software architecture**. My work spans threat-intelligence tooling, federated learning research for DDoS detection, and multi-cloud fraud-detection pipelines — each shipped as production-shaped systems with real dashboards, real APIs, and real security controls, not academic toy demos.
+I’m a final-year Cybersecurity Engineering student interested in building secure, scalable software systems at the intersection of cybersecurity, AI, and cloud technologies. I enjoy working on projects ranging from threat intelligence platforms and federated learning for DDoS detection to multi-cloud data pipelines.
 
-I approach engineering with a **product mindset**: every project is scoped, benchmarked, and documented the way a FAANG-grade internal tool would be — with attention to performance, security posture, and measurable impact.
+I like approaching projects with an engineering mindset focusing on clean architecture, security, performance, and practical usability. I’m always looking for opportunities to learn, build, and solve real-world problems through software.
 
 
 ---
