@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=280&section=header&text=Kartikeya%20Hazela&fontSize=48&fontColor=6EE7B7&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=Building+Secure%2C+Intelligent+Systems;Cybersecurity+%2B+AI%2FML+%2B+Full+Stack+Engineering;Turning+Threat+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=A0F7BC&width=435&lines=Building+Secure+and+Intelligent+Systems+" alt="Typing SVG" />
 </a>
 
 <br/>
