@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 About Me
+## ABOUT ME
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/gif3.gif" />
 
@@ -36,19 +36,10 @@ I'm a final-year Cybersecurity engineering student who builds systems at the int
 
 I approach engineering with a **product mindset**: every project is scoped, benchmarked, and documented the way a FAANG-grade internal tool would be — with attention to performance, security posture, and measurable impact.
 
-**🎯 Open To:**
-
-<div align="center">
-
-| Cybersecurity Internships | AI/ML Engineering Roles | Full Stack / Product Engineering | Research Collaborations |
-|:---:|:---:|:---:|:---:|
-| Incident Response · Threat Intel | Applied ML · Federated Learning | FastAPI / React product builds | Security + AI research papers |
-
-</div>
 
 ---
 
-## 🛠️ Tech Stack
+## TECH STACK
 
 **Languages**
 
@@ -68,10 +59,10 @@ I approach engineering with a **product mindset**: every project is scoped, benc
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
 <details>
-<summary><strong>🛡️ ThreatGuard — Threat Intelligence & IOC Analysis Dashboard</strong></summary>
+<summary><strong> ThreatGuard — Threat Intelligence & IOC Analysis Dashboard</strong></summary>
 <br/>
 
 A full-stack threat-intelligence platform that aggregates and correlates Indicators of Compromise (IOCs) from multiple live feeds into a single analyst-facing dashboard.
@@ -90,7 +81,24 @@ ThreatGuard was built to mirror how a SOC analyst actually works — pulling rep
 </details>
 
 <details>
-<summary><strong>☁️ Multi-Cloud Fraud Detection Pipeline</strong></summary>
+<summary><strong> Agent-Based Portfolio Optimization & Monitoring System</strong></summary>
+<br/>
+A financial decision-support dashboard that analyzes market data, generates optimal investment allocations based on user risk profiles, and continuously monitors portfolio performance to surface actionable rebalancing recommendations.
+  
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Streamlit · PyPortfolioOpt · Pandas · yfinance |
+| **Scale** | Multi-asset portfolio analysis with live market data ingestion |
+| **Performance** | Real-time allocation recalculation as market data and risk inputs change |
+| **Security** | Read-only market data access, no external trade execution |
+| **Impact** | Automated risk-adjusted portfolio allocation and rebalancing guidance for end users |
+| **Repository** | [github.com/KH104](https://github.com/KH104) |
+
+Built as a decision-support tool that pulls live market data via yfinance, runs risk-profile-based allocation optimization through PyPortfolioOpt, and surfaces the results in an interactive Streamlit dashboard that continuously monitors portfolio drift and recommends rebalancing actions.
+</details>
+
+<details>
+<summary><strong> Multi-Cloud Fraud Detection Pipeline</strong></summary>
 <br/>
 
 A cloud-agnostic fraud-detection system with adapters for AWS, GCP, and Azure, ingesting transactional events through a unified FastAPI layer.
@@ -109,7 +117,7 @@ Built to solve a real enterprise problem — fraud-detection logic that shouldn'
 </details>
 
 <details>
-<summary><strong>🦾 4-DOF Robotic Arm — ESP32 Controlled</strong></summary>
+<summary><strong> 4-DOF Robotic Arm — ESP32 Controlled</strong></summary>
 <br/>
 
 An academic robotics project featuring a 4 degree-of-freedom robotic arm controlled through a WiFi-based web interface.
@@ -129,7 +137,7 @@ A hands-on embedded-systems build pairing an ESP32 microcontroller with SG90 ser
 
 ---
 
-## 💼 Experience
+## EXPERIENCE
 
 **Intern — Python Automation & Enterprise API Integrations**
 **Renault Nissan Technology Business Center**
@@ -145,7 +153,7 @@ Worked on backend automation and enterprise-scale API integration within a large
 
 ---
 
-## 📄 Research Publication
+## RESEARCH PUBLICATIONS
 
 ### EDDoSFL-TGXAI: An Explainable Federated Learning Framework with Deep Reinforcement Learning for Distributed DDoS Detection
 
@@ -173,7 +181,7 @@ Worked on backend automation and enterprise-scale API integration within a large
 
 ---
 
-## 📜 Certifications
+## CERTIFICATIONS
 
 **AWS**
 
