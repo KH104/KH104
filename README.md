@@ -1,8 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,3&text=Kartikeya%20Hazela&reversal=false&section=header&animation=fadeIn" width="100%"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=A0F7BC&width=435&lines=Building+Secure+and+Intelligent+Systems+" alt="Typing SVG" />
-</a>
 
 <br/>
 
