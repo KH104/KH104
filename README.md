@@ -183,9 +183,6 @@ Worked on backend automation and enterprise-scale API integration within a large
 
 ## CERTIFICATIONS
 
-**AWS**
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117)
 
 **Microsoft**
 
@@ -198,6 +195,7 @@ Worked on backend automation and enterprise-scale API integration within a large
 **ISC2**
 
 ![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-065F46?style=for-the-badge&logo=isc2&logoColor=white&labelColor=0d1117)
+**(On-Going)**
 
 
 <div align="center">
